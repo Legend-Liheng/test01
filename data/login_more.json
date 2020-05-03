@@ -1,0 +1,18 @@
+{
+  "login001": {
+    "url": "https://test-crmapi.xiaomawang.com/user/index/login",
+    "Content": "",
+    "username": "10000",
+    "password": "Aa123456",
+    "expect_result": "操作成功",
+    "status_code": "200"
+  },
+  "login002": {
+    "url": "https://test-crmapi.xiaomawang.com/user/index/login",
+    "Content": "",
+    "username": "11111",
+    "password": "Aa123456",
+    "expect_result": "操作成功",
+    "status_code": "200"
+  }
+}
